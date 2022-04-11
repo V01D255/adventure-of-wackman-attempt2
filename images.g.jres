@@ -29,15 +29,15 @@
         "mimeType": "image/x-mkcd-f4",
         "displayName": "myImage0"
     },
-    "image7": {
-        "data": "hwQJAAkAAAAAAAAAAAAAAAAABwAAAAAAAHB3AAAAAAAAd3AHAAAAAHAAAHAAAAAAAAAHAAAAAAAAcHcAAAAAAAAHAAcAAAAAAAAAAAAAAAA=",
-        "mimeType": "image/x-mkcd-f4",
-        "displayName": "myImage1"
-    },
     "image8": {
         "data": "hwQJAAkAAAAAAAAAAAAAAAAACgAAAAAAAKCgAAAAAAAACgAKAAAAAACqqgoAAAAAAAoACgAAAAAAoKAAAAAAAAAACgAAAAAAAAAAAAAAAAA=",
         "mimeType": "image/x-mkcd-f4",
         "displayName": "myImage2"
+    },
+    "image7": {
+        "data": "hwQJAAkAAAAAAAAAAAAAAAAABwAAAAAAAHB3AAAAAAAAd3AHAAAAAHAAAHAAAAAAAAAHAAAAAAAAcHcAAAAAAAAHAAcAAAAAAAAAAAAAAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage1"
     },
     "anim5": {
         "namespace": "myAnimations",

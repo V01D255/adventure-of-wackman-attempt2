@@ -115,3 +115,4 @@ item1.setFlag(SpriteFlag.RelativeToCamera, true)
 item1.setPosition(7, 17)
 item2.setFlag(SpriteFlag.RelativeToCamera, true)
 inv2.setPosition(18, 17)
+let item_ID = [["fire", assets.image`myImage0`], ["ward", assets.image`myImage2`], ["sonar", assets.image`myImage1`]]
